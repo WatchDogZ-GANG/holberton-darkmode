@@ -1,0 +1,197 @@
+html {
+    -webkit-tap-highlight-color: red;
+}
+
+body {
+    background-color: #2B2D31;
+    color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6, p, .h1, .h2, .h3, .h4, .h5, .h6, .panel-title, .panel.panel-default .panel-heading .panel-title, .list-group-item, .btn-default, .text-primary {
+    color: #fff;
+}
+
+code {
+    background-color: grey;
+    color: yellow;
+}
+
+a {
+    color: greenyellow;
+}
+
+pre {
+    background: #1E1F22;
+    color: #D3D3CB;
+    border-color: #D3D3CB;
+}
+
+* {
+    border-color: #949BA1;
+}
+
+
+.panel-body,
+.panel-default > .panel-heading,
+.list-group-item,
+.panel-footer,
+.btn-default {
+    background-color: #313338;
+}
+
+.sidebar .logo-container,
+.sidebar {
+    background: #1E1F22;
+}
+
+.sidebar .logo-container {
+    border-bottom: 1px solid #949BA1;
+    border-right: 1px solid #949BA1;
+}
+
+.sidebar .logo-container .logo {
+    background: url(https://vrchatforge.com/logo.png) no-repeat center;
+    background-size: contain;
+    background-position: center;
+    height: 40px;
+    margin: auto;
+    width: 40px;
+}
+
+.panel, .panel.panel-tile {
+    border: 1px solid #949BA1;
+}
+
+.sidebar ul li:last-child {
+    background: #1E1F22;
+    border-top: 1px solid #949BA1;
+    border-right: 1px solid #949BA1;
+}
+
+.sidebar {
+    border-right: 1px solid #949BA1;
+}
+
+.alert.alert-info {
+    
+    background: #1E1F22;
+    color: #D3D3CB;
+    border-color: #D3D3CB;
+    
+}
+
+.modal-content {
+    
+    background-color: #313338;
+}
+
+.modal-header {
+    
+    border-bottom: 1px solid #949BA1;
+}
+
+.close {
+    
+    color: #B5BAC1;
+}
+
+.project-circle {
+    
+    border-radius: 100%;
+    box-shadow: #949BA1;
+    
+}
+
+.highcharts-background {
+    
+    fill: #1e1f22;
+}
+
+.highcharts-grid.highcharts-yaxis-grid {
+    
+    stroke: #1e1f22;
+}
+
+.alert {
+    
+    background-color: #313338;
+}
+
+.dialog {
+    
+    background-color: #313338;
+}
+
+.panel.panel-default.user-reports-card {
+    
+    background-color: #313338;
+}
+
+.pathway .project-circle .element.style {
+    box-shadow: #949BA1;
+}
+
+.pathway .project-circle {
+    background: grey;
+    border-radius: 100%;
+    box-shadow: #949BA1;
+    cursor: pointer;
+    height: 120px;
+    margin: auto;
+    padding: 5px;
+    width: 120px;
+}
+
+.form-control {
+    
+    background-color: #1e1f22;
+}
+
+tr, td {
+    
+    background-color: #2b2d31;
+}
+
+.clean.well.gray.few-padding {
+    background: #1E1F22;
+    color: #D3D3CB;
+    border-color: #D3D3CB;
+}
+
+.col-xs-12, .panel.panel-tile{
+    
+    background-color: #313338;
+}
+
+.panel {
+    
+    background-color: #313338;
+}
+
+.student-home .self-paced .progress-card .progress-information {
+    background-color: #313338;
+}
+
+.text-muted {
+    color: darkgray;
+}
+
+.highcharts-axis-labels.highcharts-xaxis-labels  {
+    color: darkblue;
+}
+
+a:hover, a:focus {
+    color: #fff;
+    text-decoration: underline;
+}
+
+a.list-group-item:hover, a.list-group-item:focus, button.list-group-item:hover, button.list-group-item:focus {
+    color: #555;
+    text-decoration: none;
+    background-color: #1E1F22;
+}
+
+.panel.panel-default .panel-heading .panel-title i.panel-title-icon {
+    background: #1E1F22;
+    
+}
